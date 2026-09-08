@@ -1,5 +1,5 @@
 ---
-title: Copilot Studio エージェントの作成に必要な権限について
+title: 【Standard Harness】Copilot Studio エージェントの作成に必要な権限について
 date: 2025-09-10 13:30:00
 tags:
   - Power Platform
@@ -15,6 +15,10 @@ toc:
 
 こんにちは。Power Platform サポートチームの 網野 です。
 今回は Copilot Studio でエージェントを作成できるユーザーに必要な権限についてご紹介します。
+
+> [!IMPORTANT]
+> 本記事は **Copilot Studio の Standard Harness** を使用した場合を前提としています。
+>
 
 <!-- more -->
 ## はじめに

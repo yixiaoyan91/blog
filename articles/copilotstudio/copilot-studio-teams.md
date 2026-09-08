@@ -1,5 +1,5 @@
 ---
-title: Copilot Studio のエージェントを Teams に公開する方法
+title: 【Standard Harness】Copilot Studio のエージェントを Teams に公開する方法
 date: 2025-04-22 16:00:00
 tags:
   - Microsoft Copilot Studio
@@ -12,6 +12,9 @@ categories:
 こんにちは、Power Platform サポートチームの竹内です。  
 本記事では Copilot Studio (旧称 Power Virtual Agents) で作成したエージェントを Microsoft Teams (以降 Teams) に公開する方法についてご案内致します。
 
+> [!IMPORTANT]
+> 本記事は **Copilot Studio の Standard Harness** を使用した場合を前提としています。
+>
 
 <!-- more -->
 # 目次
